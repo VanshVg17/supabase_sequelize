@@ -40,5 +40,3 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
-
-git config --local user.email "ayush.mehta.2024@training@gmail.com"
